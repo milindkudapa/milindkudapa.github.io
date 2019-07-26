@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "ROC Curve Demystified"
 author: milind
 categories: [ Jekyll, ML ]
