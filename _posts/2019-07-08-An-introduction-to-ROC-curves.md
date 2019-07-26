@@ -9,8 +9,6 @@ hidden: true
 ---
 
 
-# ROC curve demystified
-
 ![](https://cdn-images-1.medium.com/max/1600/1*RZ5gOgjgtvslNcqYrZ78Hw.jpeg)
 
 In any Machine Learning task, a model is said to be good based on its
