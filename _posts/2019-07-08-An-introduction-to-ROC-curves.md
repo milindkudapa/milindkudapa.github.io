@@ -5,7 +5,7 @@ author: milind
 categories: [ Jekyll, ML ]
 image: assets/images/radar.gif
 featured: true
-hidden: true
+hidden: false
 ---
 
 
