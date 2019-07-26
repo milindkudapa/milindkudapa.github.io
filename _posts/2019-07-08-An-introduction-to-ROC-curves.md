@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "ROC Curve Demystified"
+author: milind
+categories: [ Jekyll, ML ]
+image: assets/images/radar.gif
+featured: true
+hidden: true
+---
+
+
 # ROC curve demystified
 
 ![](https://cdn-images-1.medium.com/max/1600/1*RZ5gOgjgtvslNcqYrZ78Hw.jpeg)
