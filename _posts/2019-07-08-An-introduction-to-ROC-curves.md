@@ -2,7 +2,7 @@
 layout: post
 title:  "ROC Curve Demystified"
 author: milind
-categories: [ Jekyll, ML ]
+categories: [ ML ]
 image: assets/images/radar.gif
 featured: true
 hidden: false
